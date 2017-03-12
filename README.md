@@ -8,4 +8,5 @@ Abundance calculation of identified microbial groups using Bracken
 Read mapping against assembled scaffold using BWA
 Conversion of sam to bam using samtools
 Calculating coverage using bedtools
-The quality check, taxonomic classification and abundance calculation is documented in the Wiki page
+
+The quality check, taxonomic classification and abundance calculation is documented in the Wiki page of this repository
